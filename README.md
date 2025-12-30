@@ -19,20 +19,22 @@ QuickSpot has revenue data available, but leadership lacks a clear way to quickl
 ### 1) Executive Revenue Overview
 High-level snapshot with YoY comparison, monthly trends, category contribution, and revenue/cost/profit structure.
 
-![Products](screenshots/page_02_products_overview.png)
+![Executive Overview](screenshots/page_01_executive_overview.png)
 
 ### 2) Products — Revenue Concentration (Pareto)
 Identifies top-performing products and quantifies revenue concentration using dynamic Top N analysis.
 
-![Customers](screenshots/page_03_customers_rfm_overview.png)
+![Products](screenshots/page_02_products_overview.png)
 
 ### 3) Customers — RFM Segmentation
 Segments customers using Recency, Frequency, and Monetary logic to highlight high-value customer groups.
 
-![Geography](screenshots/page_04_geography_overview.png)
+![Customers](screenshots/page_03_customers_rfm_overview.png)
 
 ### 4) Geography — Regional & City Performance
 Analyzes revenue distribution across regions, states, and cities to support geographic prioritization.
+
+![Geography](screenshots/page_04_geography_overview.png)
 
 ## Key Capabilities
 - Executive revenue visibility with YoY performance comparison
