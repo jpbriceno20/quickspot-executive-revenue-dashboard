@@ -51,10 +51,10 @@ Segments customers using Recency, Frequency, and Monetary logic to highlight hig
 - Financial and business analytics storytelling  
 
 ## Quick Links
-- 📊 Dashboard (PBIX): `dashboard/QuickSpot_Executive_Revenue_Dashboard.pbix`  
-- 📄 Project Context: `documentation/01_Project_Context.pdf`  
-- 🧠 Methodology: `documentation/02_Methodology.pdf`  
-- ✅ Key Takeaways: `documentation/03_Key_Takeaways.pdf`  
+- 📊 **Dashboard (PBIX)** — `dashboard/QuickSpot_Executive_Revenue_Dashboard.pbix`
+- 📄 **Project Context** — `documentation/Project_Context.md`
+- 🧠 **Methodology** — `documentation/Methodology.md`
+- ✅ **Key Takeaways** — `documentation/Key_Takeaways.md`
 
 ## Author
 **Juan Pablo Briceño Ramos**  
