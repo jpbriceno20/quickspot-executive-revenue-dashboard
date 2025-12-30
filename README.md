@@ -29,12 +29,12 @@ Identifies top-performing products and quantifies revenue concentration using dy
 ### 3) Customers — RFM Segmentation
 Segments customers using Recency, Frequency, and Monetary logic to highlight high-value customer groups.
 
-![Geography](screenshots/page_04_geography_overview.png)
+![Geography](screenshots/page_03_geography_overview.png)
 
 ### 4) Geography — Regional & City Performance
 Analyzes revenue distribution across regions, states, and cities to support geographic prioritization.
 
-![Customers](screenshots/page_03_customers_rfm_overview.png)
+![Customers](screenshots/page_04_customers_rfm_overview.png)
 
 ## Key Capabilities
 - Executive revenue visibility with YoY performance comparison
