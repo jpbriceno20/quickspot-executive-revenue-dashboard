@@ -5,6 +5,12 @@
 ## Project Overview
 This project delivers an executive-level revenue analytics dashboard designed to move beyond static reporting and enable **prioritized, decision-ready insights**.
 
+**At a glance:**
+- Revenue grew to **$3.61M by 2018** (+19% YoY)
+- A small group of **high-value customers (Champions)** drives ~31% of total revenue
+- The **top 20 products** consistently generate ~25–28% of total revenue
+- Revenue is geographically concentrated, supporting targeted regional strategies
+
 The dashboard is structured in analytical layers, progressing from a high-level overview to detailed analysis across products, customers, and geographies.
 
 ## Why this exists
@@ -57,6 +63,6 @@ Segments customers using Recency, Frequency, and Monetary logic to highlight hig
 - ✅ **Key Takeaways** — `documentation/Key_Takeaways.md`
 
 ## Author
-**Juan Pablo Briceño Ramos**  
+**Juan Pablo Briceno Ramos**  
 Business & Financial Analyst | Toronto, Canada  
 LinkedIn: https://www.linkedin.com/in/juan-p-briceno
